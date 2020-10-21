@@ -4,9 +4,9 @@ class Main {
     int myBirthday= 519;
     int todaysDate= 921;
     if (myBirthday <= todaysDate)
-      System.out.println("I am " + myAge + "years old");
+      System.out.println("I am " + myAge + " years old");
   else{ 
-    System.out.println("I am still" + myAge + "years old");
+    System.out.println("I am still " + myAge + " years old");
     }
   }
 }
